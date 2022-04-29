@@ -1,0 +1,11 @@
+num=int(input('How many Fibonacci numbers do u want : '))
+i=3
+a=0
+b=1
+print('Fibonacci series : ',a,b,'',end='')
+while i<=num:
+    c=a+b
+    print(c,end=' ')
+    a=b
+    b=c
+    i=i+1
