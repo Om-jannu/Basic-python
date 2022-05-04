@@ -1,4 +1,4 @@
-n = int(input('Enter digit : '))
+n = int(input('Enter number of digits : '))
 num=int(input('Enter no : '))
 i=0
 print('Reverse No : ',end='')

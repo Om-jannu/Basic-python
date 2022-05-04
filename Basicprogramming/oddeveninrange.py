@@ -1,5 +1,5 @@
 i=0
-num=int(input('Enter any No : '))
+num=int(input('Enter a range from 0 to ? : '))
 print('Even Nos : ',end=" ")
 while i<num :
     print(i,end=" ")
